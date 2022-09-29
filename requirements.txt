@@ -1,0 +1,6 @@
+streamlit==1.12.0
+from PIL import Image 
+streamlit-option-menu
+streamlit-bokeh-events
+from bokeh.models.widgets import Div
+import streamlit.components.v1 as components
