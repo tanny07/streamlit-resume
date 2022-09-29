@@ -3,7 +3,7 @@ import streamlit as st
 from PIL import Image 
 from streamlit_option_menu import option_menu
 from bokeh.models.widgets import Div
-import streamlit.components.v1 as components
+
 
 
 ############################################ General Settings ###########################################################
