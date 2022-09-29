@@ -158,14 +158,8 @@ def Francais():
                 - Techniques de vision par ordinateur optimisées pour analyser les performances vidéo des joueurs de cricket avec un taux de réussite effectif de plus de 95%.
                 - Impliqué dans l'équipe Analytics qui a fourni des solutions techniques en temps réel à l'aide d'Excel, SQL, Tableau, Kinovea et de logiciels de correspondance personnalisés.         
                 ''')
-        st.markdown('## Analyse vidéo au bâton des joueurs de cricket au club ', unsafe_allow_html=True)
-        embeded_components = { 'linkedin': '''<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6728562480966115328?compact=1" height="599" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'''}
-        components.html(embeded_components['linkedin'], height=500)
-
-        embeded_components1 = { 'linkedin': '''<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6723470737191026688?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'''}
-        components.html(embeded_components1['linkedin'], height=500)
-
-        st.markdown('## Analyse de bowling des joueurs de cricket au club', unsafe_allow_html=True)
+        
+        st.markdown('## Analyse de mouvement', unsafe_allow_html=True)
 
         st.markdown("[![Foo](https://media-exp1.licdn.com/dms/image/C4E22AQGiR6-wDSaQpA/feedshare-shrink_800/0/1606045828233?e=1667433600&v=beta&t=gPnFwQGDxDDMBtcUe4Lcmz8ZRf2yEHIJLqQunKYrn4k)](https://www.linkedin.com/posts/mondkartanmay_datavisualization-cricket-indiancricket-activity-6736244448189059072-ZFJ2?utm_source=share&utm_medium=member_desktop)")
 
@@ -300,18 +294,6 @@ def Anglais():
                 - Flexibility
                 ''')
 
-
-        with col2 :
-            st.info('''
-                #### Compétences Générales 
-                - Gestion du temps
-                - Résolution de problème
-                - Eenthusiastic
-                - Influence
-                - Team Player
-                - Flexibility
-                ''')
-
 ############################################ Education Function(Angais) ##############################################################
 
     def Education():
@@ -338,14 +320,8 @@ def Anglais():
                 - Computer vision techniques optimized to analyze the video performance of cricketers with an effective success rate of over 95%.
                 - Involved in the Analytics team which provided real-time technical solutions using Excel, SQL, Tableau, Kinovea and custom matching software.         
                 ''')
-        st.markdown('## Batting Video Analysis of Cricketers at the Club ', unsafe_allow_html=True)
-        embeded_components = { 'linkedin': '''<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6728562480966115328?compact=1" height="599" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'''}
-        components.html(embeded_components['linkedin'], height=500)
 
-        embeded_components1 = { 'linkedin': '''<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6723470737191026688?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'''}
-        components.html(embeded_components1['linkedin'], height=500)
-
-        st.markdown('## Bowling Analysis of Cricketers at the Club ', unsafe_allow_html=True)
+        st.markdown('## Motion Analysis', unsafe_allow_html=True)
 
         st.markdown("[![Foo](https://media-exp1.licdn.com/dms/image/C4E22AQGiR6-wDSaQpA/feedshare-shrink_800/0/1606045828233?e=1667433600&v=beta&t=gPnFwQGDxDDMBtcUe4Lcmz8ZRf2yEHIJLqQunKYrn4k)](https://www.linkedin.com/posts/mondkartanmay_datavisualization-cricket-indiancricket-activity-6736244448189059072-ZFJ2?utm_source=share&utm_medium=member_desktop)")
 
