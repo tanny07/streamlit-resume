@@ -1,4 +1,5 @@
 import streamlit as st
+from pathlib import Path
 from PIL import Image 
 from streamlit_option_menu import option_menu
 from bokeh.models.widgets import Div
@@ -6,6 +7,11 @@ from bokeh.models.widgets import Div
 
 
 ############################################ General Settings ###########################################################
+
+
+# --- PATH SETTINGS ---
+current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
+profile_pic = current_dir / "profile.png"
 
 hide_streamlit_style = """
 <style>
@@ -40,7 +46,7 @@ def Francais():
         st.write("Email : tanmaymondkar07@gmail.com")
 
     with col2:
-        image = Image.open("/Users/tanmaymondkar/Documents/France_Epita/streamlit-resume/profile.png")
+        image = Image.open(profile_pic)
         st.image(image, width= 200)
 
 ############################################ Navigation Bar(Français) ##############################################################
@@ -215,7 +221,7 @@ def Anglais():
         st.write("Email : tanmaymondkar07@gmail.com")
 
     with col2:
-        image = Image.open("/Users/tanmaymondkar/Documents/France_Epita/streamlit-resume/profile.png")
+        image = Image.open(profile_pic)
         st.image(image, width= 200)
 
 ############################################ Navigation Bar(Angais) ##############################################################
