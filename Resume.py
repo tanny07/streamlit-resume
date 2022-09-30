@@ -1,4 +1,3 @@
-from pathlib import Path
 import streamlit as st
 from PIL import Image 
 from streamlit_option_menu import option_menu
@@ -216,7 +215,7 @@ def Anglais():
         st.write("Email : tanmaymondkar07@gmail.com")
 
     with col2:
-        image = Image.open("/Users/tanmaymondkar/Documents/France_Epita/streamlit-resume/Profile.png")
+        image = Image.open("/Users/tanmaymondkar/Documents/France_Epita/streamlit-resume/profile.png")
         st.image(image, width= 200)
 
 ############################################ Navigation Bar(Angais) ##############################################################
@@ -362,7 +361,7 @@ def Anglais():
     if selection == 'Projects':
         Projects()
 
-############################################ Function call(Angais) ##############################################################
+############################################ Language Option ####33###############################################################
 
 if option == 'Français':
     Francais()
