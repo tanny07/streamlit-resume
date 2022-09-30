@@ -41,7 +41,7 @@ def Francais():
         st.write("Email : tanmaymondkar07@gmail.com")
 
     with col2:
-        image = Image.open("/Users/tanmaymondkar/Documents/France_Epita/streamlit-resume/Profile.png")
+        image = Image.open("/Users/tanmaymondkar/Documents/France_Epita/streamlit-resume/profile.png")
         st.image(image, width= 200)
 
 ############################################ Navigation Bar(Français) ##############################################################
