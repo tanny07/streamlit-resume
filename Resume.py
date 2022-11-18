@@ -63,38 +63,26 @@ def Francais():
         with open("TanmayMondkarCV.pdf", "rb") as pdf_file:
             PDFbyte = pdf_file.read()
 
-        col1, col2, col3,col4 = st.columns(4)
+        
+        with st.sidebar:
 
-        with col1:
-            if st.button('Github'):
-                js = "window.open('https://github.com/tanny07')" 
-                html = '<img src onerror="{}">'.format(js)
-                div = Div(text=html)
-                st.bokeh_chart(div)
+            st.markdown('# Links', unsafe_allow_html=True)  
 
-        with col2:
-                st.download_button(
+            st.write(" Github : [link](https://github.com/tanny07)")
+            st.write(" LinkedIn : [link](https://www.linkedin.com/in/mondkartanmay)")
+            st.write(" Address : [link](https://goo.gl/maps/axbpvEqEDT9J9jeG7)")
+
+            st.download_button(
+            label="Download Resume",
+            data=PDFbyte,
+            file_name= "TanmayMondkarCV.pdf",
+ 
+            st.download_button(
             label="Resume",
             data=PDFbyte,
             file_name= "TanmayMondkarCV.pdf",
             mime="application/octet-stream",)
-    
-        with col3:
-            if st.button('LinkedIn'):
-                js = "window.open('https://www.linkedin.com/in/mondkartanmay')" 
-                html = '<img src onerror="{}">'.format(js)
-                div = Div(text=html)
-                st.bokeh_chart(div)
- 
-        with col4:
-            if st.button('Address'):
-                js = "window.open('https://goo.gl/maps/axbpvEqEDT9J9jeG7')" 
-                html = '<img src onerror="{}">'.format(js)
-                div = Div(text=html)
-                st.bokeh_chart(div)
-
-              
-
+   
         st.markdown('## Sommaire', unsafe_allow_html=True)
         st.info('''
                 - Je suis un analyste de données de 22 ans qui aime analyser les données et raconter des histoires avec. 
@@ -236,37 +224,26 @@ def Anglais():
         resume_file = "/Users/tanmaymondkar/Documents/France_Epita/streamlit-resume/TanmayMondkarResume.pdf"
         with open("TanmayMondkarResume.pdf", "rb") as pdf_file:
             PDFbyte = pdf_file.read()
+    
+        with st.sidebar:
 
-        col1, col2, col3,col4 = st.columns(4)
+            st.markdown('# Links', unsafe_allow_html=True)  
 
-        with col1:
-            if st.button('Github'):
-                js = "window.open('https://github.com/tanny07')" 
-                html = '<img src onerror="{}">'.format(js)
-                div = Div(text=html)
-                st.bokeh_chart(div)
+            st.write(" Github : [link](https://github.com/tanny07)")
+            st.write(" LinkedIn : [link](https://www.linkedin.com/in/mondkartanmay)")
+            st.write(" Address : [link](https://goo.gl/maps/axbpvEqEDT9J9jeG7)")
 
-        with col2:
-                st.download_button(
+            st.download_button(
+            label="Download Resume",
+            data=PDFbyte,
+            file_name= "TanmayMondkarCV.pdf",
+ 
+            st.download_button(
             label="Resume",
             data=PDFbyte,
-            file_name= "TanmayMondkarResume.pdf",
+            file_name= "TanmayMondkarCV.pdf",
             mime="application/octet-stream",)
-    
-        with col3:
-            if st.button('LinkedIn'):
-                js = "window.open('https://www.linkedin.com/in/mondkartanmay')" 
-                html = '<img src onerror="{}">'.format(js)
-                div = Div(text=html)
-                st.bokeh_chart(div)
- 
-        with col4:
-            if st.button('Adresse'):
-                js = "window.open('https://goo.gl/maps/axbpvEqEDT9J9jeG7')" 
-                html = '<img src onerror="{}">'.format(js)
-                div = Div(text=html)
-                st.bokeh_chart(div)
-
+                
         st.markdown('## Summary', unsafe_allow_html=True)
         st.info('''
                 - I am a 22 year old data analyst who enjoys analyzing data and telling stories with it. 
