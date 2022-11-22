@@ -145,17 +145,10 @@ def Francais():
                 - Développement de tableaux de bord KPI pour plus de 200 joueurs de cricket d'un club. Ma principale responsabilité était de gérer, d'exploiter et d'analyser les données.
                 - Techniques de vision par ordinateur optimisées pour analyser les performances vidéo des joueurs de cricket avec un taux de réussite effectif de plus de 95%.
                 - Impliqué dans l'équipe Analytics qui a fourni des solutions techniques en temps réel à l'aide d'Excel, SQL, Tableau, Kinovea et de logiciels de correspondance personnalisés.         
-                - ## Analyse de mouvement
+                - ### Liens vers le travail du projet :
                 - ###### OPEN PROJECT : [link](https://www.linkedin.com/posts/mondkartanmay_datavisualization-cricket-indiancricket-activity-6736244448189059072-ZFJ2?utm_source=share&utm_medium=member_desktop)
                 - ###### OPEN PROJECT : [link](https://www.linkedin.com/posts/mondkartanmay_performanceanalysis-datavisualization-dataanalytics-activity-6732320808548515840-gX6u?utm_source=share&utm_medium=member_desktop)
                 ''')
-        
-        #st.markdown('## Analyse de mouvement', unsafe_allow_html=True)
-
-        #st.markdown("[![Foo](https://media-exp1.licdn.com/dms/image/C4E22AQGiR6-wDSaQpA/feedshare-shrink_800/0/1606045828233?e=1667433600&v=beta&t=gPnFwQGDxDDMBtcUe4Lcmz8ZRf2yEHIJLqQunKYrn4k)](https://www.linkedin.com/posts/mondkartanmay_datavisualization-cricket-indiancricket-activity-6736244448189059072-ZFJ2?utm_source=share&utm_medium=member_desktop)")
-
-        #st.markdown("[![Foo](https://media-exp1.licdn.com/dms/image/C4E22AQErnYer7XlPDA/feedshare-shrink_800/0/1605110360541?e=1667433600&v=beta&t=Pv9ZBGjr82QlRpF8V-U4tbb4hWZ6ZBOa9-QkozJ8Q7Q)]")
-
 
 ############################################ Projects Function (Français) ##############################################################
 
@@ -294,7 +287,7 @@ def Anglais():
                 - Development of KPI dashboards for over 200 cricketers at a club. My main responsibility was to manage, exploit and analyze data.
                 - Computer vision techniques optimized to analyze the video performance of cricketers with an effective success rate of over 95%.
                 - Involved in the Analytics team which provided real-time technical solutions using Excel, SQL, Tableau, Kinovea and custom matching software.         
-                - ## Analyse de mouvement
+                - ### Links to Project Work :
                 - ###### OPEN PROJECT : [link](https://www.linkedin.com/posts/mondkartanmay_datavisualization-cricket-indiancricket-activity-6736244448189059072-ZFJ2?utm_source=share&utm_medium=member_desktop)
                 - ###### OPEN PROJECT : [link](https://www.linkedin.com/posts/mondkartanmay_performanceanalysis-datavisualization-dataanalytics-activity-6732320808548515840-gX6u?utm_source=share&utm_medium=member_desktop)
                 ''')
