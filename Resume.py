@@ -8,6 +8,14 @@ from bokeh.models.widgets import Div
 
 ############################################ General Settings ###########################################################
 
+# PAGE LAYOUT
+
+st.set_page_config(
+    page_title = "Digital Resume", 
+    layout="wide",
+    page_icon="✨"
+) 
+st.title(" Digital Resume ")
 
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
@@ -21,15 +29,6 @@ footer {visibility: hidden;}
 </style>
 """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
-
-# PAGE LAYOUT
-
-st.set_page_config(
-    page_title = "Digital Resume", 
-    layout="wide",
-    page_icon="✨"
-) 
-st.title(" Digital Resume ")
 
 ############################################ For Langauge Selection Box #################################################
 col1, col2, col3 = st.columns(3)
