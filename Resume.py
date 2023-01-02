@@ -22,7 +22,14 @@ footer {visibility: hidden;}
 """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
 
+# PAGE LAYOUT
 
+st.set_page_config(
+    page_title = "Digital Resume", 
+    layout="wide",
+    page_icon="✨"
+) 
+st.title(" Digital Resume ")
 
 ############################################ For Langauge Selection Box #################################################
 col1, col2, col3 = st.columns(3)
