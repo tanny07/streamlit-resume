@@ -3,3 +3,4 @@ Pillow==9.2.0
 streamlit-option-menu
 streamlit-bokeh-events
 pathlib
+altair<5
