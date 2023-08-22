@@ -149,7 +149,7 @@ def Francais():
         st.markdown('## ', unsafe_allow_html=True)
         st.info('''
                 ### VIRTUAL REALITY PRODUCT DATA ANALYST - MASTER's of CS INTERNSHIP
-                ### LOCATIOIN - MGM'S COLLEGE OF COMPUTER SCIENCE, NAVI MUMBAI, INDIA
+                ## EMPLACEMENT - MGM'S COLLEGE OF COMPUTER SCIENCE, NAVI MUMBAI, INDIA
                 - Dirigé le développement d'une application mobile VR pour la formation médicale, ce qui a permis une économie de 200 € par formation en RCR - deux fois par mois.
                 - En tant que Data Product Owner, j'étais responsable de la collecte, de la protection et de la gestion des données des utilisateurs.
                 - Responsable de la création de capteurs tactiles pour la collecte et le stockage de données.
@@ -158,7 +158,8 @@ def Francais():
                 - Technologies mises en œuvre dans le développement : Unity3d, C#, C++, Python, Data Analytics, développement Arduino, SQL, AWS - Cloud, Jira.
 
                 
-                ### HIGH PERFORMANCE DATA ANALYST - VOLUNTEER (ROSHAN CRICKET CLUB) - MUMBAI, INDIA   
+                ### HIGH PERFORMANCE DATA ANALYST - WORK STUDY/ VOLUNTEER
+                ## EMPLACEMENT - ROSHAN CRICKET CLUB, NAVI MUMBAI, INDIA
                 - Développement de tableaux de bord KPI pour plus de 200 joueurs de cricket d'un club. Ma principale responsabilité était de gérer, d'exploiter et d'analyser les données.
                 - Techniques de vision par ordinateur optimisées pour analyser les performances vidéo des joueurs de cricket avec un taux de réussite effectif de plus de 95%.
                 - Impliqué dans l'équipe Analytics qui a fourni des solutions techniques en temps réel à l'aide d'Excel, SQL, Tableau, Kinovea et de logiciels de correspondance personnalisés.         
@@ -302,7 +303,7 @@ def Anglais():
         st.markdown('## ', unsafe_allow_html=True)
         st.info('''
                 ### VIRTUAL REALITY PRODUCT DATA ANALYST - MASTER's of CS INTERNSHIP
-                ### LOCATIOIN - MGM'S COLLEGE OF COMPUTER SCIENCE, NAVI MUMBAI, INDIA
+                ## LOCATIOIN - MGM'S COLLEGE OF COMPUTER SCIENCE, NAVI MUMBAI, INDIA
                 - Leaded the development of VR mobile application for medical training resulting in cost saving of €200 per CPR training - twice a month.
                 - As a Data Product Owner I was responsible for collection, protection and management of user's data.
                 - Responsible for creating touch sensors for data collection and storage.
@@ -310,8 +311,8 @@ def Anglais():
                 - Development of KPI dashboard for the CPR training performance.
                 - Implemented technologies in the development : Unity3d, C#, C++, Python, Data Analytics, Arduino development, SQL, AWS - Cloud, Jira.
                 
-                ### HIGH PERFORMANCE DATA ANALYST - VOLUNTEER 
-                ### LOCATION - ROSHAN CRICKET CLUB - MUMBAI, INDIA 
+                ### HIGH PERFORMANCE DATA ANALYST - WORK STUDY/ VOLUNTEER 
+                ## LOCATION - ROSHAN CRICKET CLUB - MUMBAI, INDIA 
                 - Development of KPI dashboards for over 200 cricketers at a club. My main responsibility was to manage, exploit and analyze data.
                 - Computer vision techniques optimized to analyze the video performance of cricketers with an effective success rate of over 95%.
                 - Involved in the Analytics team which provided real-time technical solutions using Excel, SQL, Tableau, Kinovea and custom matching software.         
