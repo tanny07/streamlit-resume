@@ -48,7 +48,7 @@ def Francais():
 
     with col1:
         st.header("Tanmay MONDKAR")
-        st.subheader("Data Analyst")
+        st.subheader("Data Science Graduate")
         st.write("Email : tanmaymondkar07@gmail.com")
 
     with col2:
@@ -111,6 +111,7 @@ def Francais():
                     - Data Analytics Softwares  
                     - AWS Cloud
                     - Machine Learning Algorithms 
+                    - Jira
                     ''')
 
         with col2 :
@@ -133,7 +134,7 @@ def Francais():
         st.markdown('## ', unsafe_allow_html=True)
         st.info('''
                 ### MASTER INFORMATIQUE SPÉCIALISATION DATA SCIENCE   
-                - EPITA - Ecole d'ingénieurs informatique - Paris, France (Septembre, 2021 - Present)
+                - EPITA - Ecole d'ingénieurs informatique - Paris, France (Septembre, 2021 - Juillet, 2023)
 
                 ### BACHELOR'S SCIENCES EN TECHNOLOGIE DE L'INFORMATION  
                 - Mumbai University - Mumbai, India (juillet, 2018 - Mai, 2021)
@@ -147,6 +148,16 @@ def Francais():
 
         st.markdown('## ', unsafe_allow_html=True)
         st.info('''
+                ### VIRTUAL REALITY PRODUCT DATA ANALYST - MASTER's of CS INTERNSHIP
+                ### LOCATIOIN - MGM'S COLLEGE OF COMPUTER SCIENCE, NAVI MUMBAI, INDIA
+                - Dirigé le développement d'une application mobile VR pour la formation médicale, ce qui a permis une économie de 200 € par formation en RCR - deux fois par mois.
+                - En tant que Data Product Owner, j'étais responsable de la collecte, de la protection et de la gestion des données des utilisateurs.
+                - Responsable de la création de capteurs tactiles pour la collecte et le stockage de données.
+                - Creating and documentation of research papers, reports, regarding the development of the product.
+                - Développement d'un tableau de bord KPI pour la performance de la formation CPR.
+                - Technologies mises en œuvre dans le développement : Unity3d, C#, C++, Python, Data Analytics, développement Arduino, SQL, AWS - Cloud, Jira.
+
+                
                 ### HIGH PERFORMANCE DATA ANALYST - VOLUNTEER (ROSHAN CRICKET CLUB) - MUMBAI, INDIA   
                 - Développement de tableaux de bord KPI pour plus de 200 joueurs de cricket d'un club. Ma principale responsabilité était de gérer, d'exploiter et d'analyser les données.
                 - Techniques de vision par ordinateur optimisées pour analyser les performances vidéo des joueurs de cricket avec un taux de réussite effectif de plus de 95%.
@@ -215,7 +226,7 @@ def Anglais():
                        icons=['badge-tm', 'building', 'briefcase', 'bookmark-check'],
                        menu_icon="cast", default_index=0, orientation="horizontal")
 
-############################################ Proflie Function (Angais) ##############################################################
+############################################ Proflie Function (Anglais) ##############################################################
 
     def profile():
         resume_file = "/Users/tanmaymondkar/Documents/France_Epita/streamlit-resume/TanmayMondkarResume.pdf"
@@ -238,10 +249,10 @@ def Anglais():
                 
         st.markdown('## Summary', unsafe_allow_html=True)
         st.info('''
-                - I am a 22 year old data analyst who enjoys analyzing data and telling stories with it. 
-                - Among my skills are SQL, Excel, Python, PowerBI, Tableau, Dataiku, AWS-Cloud and Github. 
-                - I enjoy working in a team and know how to manage time and risks while being organized and goal-oriented. 
-                - I enjoy talking with people to share and learn how things work to improve productivity.
+                - I am a 23 year young data science graduate who enjoys exploring various fields and sectors in IT where I can utilise my experience and knowledge of Computer Science 
+                - I have experience of working in SportsTech and MedTech industries.
+                - I enjoy working in a team and I know how to manage time and risks while being motivated and goal-oriented.
+                - I love talking with people to share and learn to develop strategies and improve productivity.
                 ''')
 
         st.markdown('## Skills', unsafe_allow_html=True)
@@ -254,7 +265,8 @@ def Anglais():
                     - SQL and PostgreSQL
                     - Data Analytics Softwares  
                     - AWS Cloud
-                    - Machine Learning Algorithms 
+                    - Machine Learning Algorithms
+                    - Jira
                     ''')
 
         with col2 :
@@ -275,7 +287,7 @@ def Anglais():
         st.markdown('## ', unsafe_allow_html=True)
         st.info('''
                 ### MASTER'S OF COMPUTER SCIENCE SPECIALIZATION IN DATA SCIENCE   
-                - EPITA - Ecole d'ingénieurs informatique - Paris, France (September, 2021 - Present)
+                - EPITA - Ecole d'ingénieurs informatique - Paris, France (September, 2021 - July, 2023)
 
                 ### BACHELOR'S OF INFORMATION TECHNOLOGY  
                 - Mumbai University - Mumbai, India (July, 2018 - May, 2021)
@@ -289,7 +301,17 @@ def Anglais():
 
         st.markdown('## ', unsafe_allow_html=True)
         st.info('''
-                ### HIGH PERFORMANCE DATA ANALYST - VOLUNTEER (ROSHAN CRICKET CLUB) - MUMBAI, INDIA   
+                ### VIRTUAL REALITY PRODUCT DATA ANALYST - MASTER's of CS INTERNSHIP
+                ### LOCATIOIN - MGM'S COLLEGE OF COMPUTER SCIENCE, NAVI MUMBAI, INDIA
+                - Leaded the development of VR mobile application for medical training resulting in cost saving of €200 per CPR training - twice a month.
+                - As a Data Product Owner I was responsible for collection, protection and management of user's data.
+                - Responsible for creating touch sensors for data collection and storage.
+                - Creating and documentation of research papers, reports, regarding the development of the product.
+                - Development of KPI dashboard for the CPR training performance.
+                - Implemented technologies in the development : Unity3d, C#, C++, Python, Data Analytics, Arduino development, SQL, AWS - Cloud, Jira.
+                
+                ### HIGH PERFORMANCE DATA ANALYST - VOLUNTEER 
+                ### LOCATION - ROSHAN CRICKET CLUB - MUMBAI, INDIA 
                 - Development of KPI dashboards for over 200 cricketers at a club. My main responsibility was to manage, exploit and analyze data.
                 - Computer vision techniques optimized to analyze the video performance of cricketers with an effective success rate of over 95%.
                 - Involved in the Analytics team which provided real-time technical solutions using Excel, SQL, Tableau, Kinovea and custom matching software.         
