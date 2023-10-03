@@ -86,7 +86,7 @@ def Francais():
    
         st.markdown('## Sommaire', unsafe_allow_html=True)
         st.info('''
-                - Je suis un analyste de données de 22 ans qui aime analyser les données et raconter des histoires avec. 
+                - Je suis un analyste de données de 24 ans qui aime analyser les données et raconter des histoires avec. 
                 - Parmi mes compétences figurent SQL, Excel, Python, PowerBI, Tableau, Dataiku, AWS-Cloud et Github.
                 - J'aime travailler en équipe et sait gérer le temps et les risques tout en étant organisé et axé sur les objectifs 
                 - J'apprécie de parler avec les gens pour partager et apprendre comment les choses fonctionnent afin d'améliorer la productivité.
@@ -250,7 +250,7 @@ def Anglais():
                 
         st.markdown('## Summary', unsafe_allow_html=True)
         st.info('''
-                - I am a 23 year young data science graduate who enjoys exploring various fields and sectors in IT where I can utilise my experience and knowledge of Computer Science 
+                - I am a 24 year young data science graduate who enjoys exploring various fields and sectors in IT where I can utilise my experience and knowledge of Computer Science 
                 - I have experience of working in SportsTech and MedTech industries.
                 - I enjoy working in a team and I know how to manage time and risks while being motivated and goal-oriented.
                 - I love talking with people to share and learn to develop strategies and improve productivity.
