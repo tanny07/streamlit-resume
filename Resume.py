@@ -191,7 +191,7 @@ def Francais():
                 - Le tableau de bord consiste en une analyse de l'ensemble de données sur le cancer du sein de la bibliothèque sklearn.
                 - L'analyse se compose de quatre graphiques qui peuvent être configurés selon les besoins.
                 - Technologie implémentée : python,sklearn, pandas, matplotlib, numpy, streamlit, html.
-                - ###### OPEN PROJECT : [link](https://tanny07-streamlit-dashboard-dashboard-tanny-y6gu34.streamlitapp.com/)
+                - ###### OPEN PROJECT : [link](https://github.com/tanny07/streamlit-dashboard)
                 ''')
 
 
@@ -350,7 +350,7 @@ def Anglais():
                 - The dashboard consists of an analysis of the breast cancer dataset from the sklearn library.
                 - The analysis consists of four charts that can be configured as needed
                 - Implemented technology: python, sklearn, pandas, matplotlib, numpy, streamlit, html
-                - ###### OPEN PROJECT : [link](https://tanny07-streamlit-dashboard-dashboard-tanny-y6gu34.streamlitapp.com/)
+                - ###### OPEN PROJECT : [link](https://github.com/tanny07/streamlit-dashboard)
                 ''')
 
 ############################################ Function call(Angais) ##############################################################
