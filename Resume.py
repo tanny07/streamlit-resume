@@ -142,8 +142,8 @@ def Francais():
                 ### BACHELOR'S SCIENCES EN TECHNOLOGIE DE L'INFORMATION  
                 - Mumbai University - Mumbai, India (juillet, 2018 - Mai, 2021)
                 
-                - Programming Skills : C Language, Python Language, Java Language, SQL,
-                - Management Skills : Green Computing, Computer Networks, IT service Management, IOT
+                    - Programming Skills : C Language, Python Language, Java Language, SQL,
+                    - Management Skills : Green Computing, Computer Networks, IT service Management, IOT
                 ''')
 
 
@@ -296,14 +296,14 @@ def Anglais():
                 ### MASTER'S OF COMPUTER SCIENCE SPECIALIZATION IN DATA SCIENCE   
                 - EPITA - Ecole d'ingénieurs informatique - Paris, France (September, 2021 - July, 2023)
 
-                - Programming Skills : Advance Python, Tableau, Dataiku, PostgreSQl, PowerBi, SSIS, ML, AI, Blockchain 
-                - Management Skills : French Language, Project Management, Cross Border Management
+                    - Programming Skills : Advance Python, Tableau, Dataiku, PostgreSQl, PowerBi, SSIS, ML, AI, Blockchain 
+                    - Management Skills : French Language, Project Management, Cross Border Management
 
                 ### BACHELOR'S OF INFORMATION TECHNOLOGY  
                 - Mumbai University - Mumbai, India (July, 2018 - May, 2021)
 
-                - Programming Skills : C Language, Python Language, Java Language, SQL,
-                - Management Skills : Green Computing, Computer Networks, IT service Management, IOT
+                    - Programming Skills : C Language, Python Language, Java Language, SQL,
+                    - Management Skills : Green Computing, Computer Networks, IT service Management, IOT
                 ''')
 
 
