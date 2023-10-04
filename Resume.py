@@ -78,11 +78,11 @@ def Francais():
             st.write(" LinkedIn : [link](https://www.linkedin.com/in/mondkartanmay)")
             st.write(" Address : [link](https://goo.gl/maps/axbpvEqEDT9J9jeG7)")
  
-            st.download_button(
-            label="Download Resume",
-            data=PDFbyte,
-            file_name= "TanmayMondkarCV.pdf",
-            mime="application/octet-stream",)
+            #st.download_button(
+            #label="Download Resume",
+            #data=PDFbyte,
+            #file_name= "TanmayMondkarCV.pdf",
+            #mime="application/octet-stream",)
    
         st.markdown('## Sommaire', unsafe_allow_html=True)
         st.info('''
@@ -242,11 +242,11 @@ def Anglais():
             st.write(" LinkedIn : [link](https://www.linkedin.com/in/mondkartanmay)")
             st.write(" Address : [link](https://goo.gl/maps/axbpvEqEDT9J9jeG7)")
  
-            st.download_button(
-            label="Download Resume",
-            data=PDFbyte,
-            file_name= "TanmayMondkarCV.pdf",
-            mime="application/octet-stream",)
+            #st.download_button(
+            #label="Download Resume",
+            #data=PDFbyte,
+            #file_name= "TanmayMondkarCV.pdf",
+            #mime="application/octet-stream",)
                 
         st.markdown('## Summary', unsafe_allow_html=True)
         st.info('''
