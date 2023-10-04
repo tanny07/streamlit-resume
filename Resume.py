@@ -136,8 +136,8 @@ def Francais():
                 ### MASTER INFORMATIQUE SPÉCIALISATION DATA SCIENCE   
                 - EPITA - Ecole d'ingénieurs informatique - Paris, France (Septembre, 2021 - Juillet, 2023)
                 
-                - Programming Skills : Advance Python, Tableau, Dataiku, PostgreSQl, PowerBi, SSIS, ML, AI, Blockchain 
-                - Management Skills : French Language, Project Management, Cross Border Management
+                    - Programming Skills : Advance Python, Tableau, Dataiku, PostgreSQl, PowerBi, SSIS, ML, AI, Blockchain 
+                    - Management Skills : French Language, Project Management, Cross Border Management
 
                 ### BACHELOR'S SCIENCES EN TECHNOLOGIE DE L'INFORMATION  
                 - Mumbai University - Mumbai, India (juillet, 2018 - Mai, 2021)
