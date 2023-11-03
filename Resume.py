@@ -76,7 +76,7 @@ def Francais():
 
             st.write(" Github : [link](https://github.com/tanny07)")
             st.write(" LinkedIn : [link](https://www.linkedin.com/in/mondkartanmay)")
-            st.write(" Address : [link](https://goo.gl/maps/axbpvEqEDT9J9jeG7)")
+            st.write(" Address : [link](https://maps.app.goo.gl/EJRVmZpdZEEgjjPg6)")
  
             #st.download_button(
             #label="Download Resume",
