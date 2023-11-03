@@ -86,8 +86,9 @@ def Francais():
    
         st.markdown('## Sommaire', unsafe_allow_html=True)
         st.info('''
-                - Je suis un analyste de données de 24 ans qui aime analyser les données et raconter des histoires avec. 
+                - Je suis un jeune diplômé en science des données de 24 ans qui aime explorer divers domaines et secteurs de l'informatique où je peux utiliser mon expérience et mes connaissances en informatique.
                 - Parmi mes compétences figurent SQL, Excel, Python, PowerBI, Tableau, Dataiku, AWS-Cloud et Github.
+                - J'ai de l'expérience de travail dans les secteurs SportsTech et MedTech.
                 - J'aime travailler en équipe et sait gérer le temps et les risques tout en étant organisé et axé sur les objectifs 
                 - J'apprécie de parler avec les gens pour partager et apprendre comment les choses fonctionnent afin d'améliorer la productivité.
                 ''')  
@@ -137,7 +138,7 @@ def Francais():
         st.markdown('## ', unsafe_allow_html=True)
         st.info('''
                 ### MASTER INFORMATIQUE SPÉCIALISATION DATA SCIENCE   
-                - EPITA - Ecole d'ingénieurs informatique - Paris, France (Septembre, 2021 - Juillet, 2023)
+                - EPITA - Ecole d'ingénieurs informatique - Paris, France (Septembre, 2021 - Août, 2023)
                 
                     - Programming Skills : Advance Python, Tableau, Dataiku, PostgreSQl, PowerBi, SSIS, ML, AI, Blockchain 
                     - Management Skills : French Language, Project Management, Cross Border Management
@@ -259,7 +260,8 @@ def Anglais():
                 
         st.markdown('## Summary', unsafe_allow_html=True)
         st.info('''
-                - I am a 24 year young data science graduate who enjoys exploring various fields and sectors in IT where I can utilise my experience and knowledge of Computer Science 
+                - I am a 24 year young data science graduate who enjoys exploring various fields and sectors in IT where I can utilise my experience and knowledge of Computer Science. 
+                - My skills include SQL, Excel, Python, PowerBI, Tableau, Dataiku, AWS-Cloud and Github.
                 - I have experience of working in SportsTech and MedTech industries.
                 - I enjoy working in a team and I know how to manage time and risks while being motivated and goal-oriented.
                 - I love talking with people to share and learn to develop strategies and improve productivity.
@@ -300,7 +302,7 @@ def Anglais():
         st.markdown('## ', unsafe_allow_html=True)
         st.info('''
                 ### MASTER'S OF COMPUTER SCIENCE SPECIALIZATION IN DATA SCIENCE   
-                - EPITA - Ecole d'ingénieurs informatique - Paris, France (September, 2021 - July, 2023)
+                - EPITA - Ecole d'ingénieurs informatique - Paris, France (September, 2021 - August, 2023)
 
                     - Programming Skills : Advance Python, Tableau, Dataiku, PostgreSQl, PowerBi, SSIS, ML, AI, Blockchain 
                     - Management Skills : French Language, Project Management, Cross Border Management
