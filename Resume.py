@@ -105,7 +105,8 @@ def Francais():
         with col1 :
             st.info('''
                     #### Compétences Techniques 
-                    - Python Programming langauge 
+                    - Python Programming langauge
+                    - PowerBi
                     - Streamlit  
                     - SQL and PostgreSQL
                     - Data Analytics Softwares  
@@ -123,6 +124,8 @@ def Francais():
                 - Rayonnement
                 - Joueur d'équipe
                 - Souplesse
+                - Innovant
+                - Communicatif
                 ''')
 
 
@@ -268,7 +271,8 @@ def Anglais():
             st.info('''
                     #### Hard Skills 
                     - Python Programming langauge 
-                    - Streamlit  
+                    - Streamlit 
+                    - PowerBi
                     - SQL and PostgreSQL
                     - Data Analytics Softwares  
                     - AWS Cloud
@@ -285,6 +289,8 @@ def Anglais():
                 - Influence
                 - Team Player
                 - Flexibility
+                - Innovative
+                - Communicative
                 ''')
 
 ############################################ Education Function(Angais) ##############################################################
